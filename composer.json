@@ -1,0 +1,16 @@
+{
+  "name": "seapip/bar_music",
+  "description": "Music server for Barzo",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Thomas Gladdines",
+      "email": "seahorsepip@outlook.com"
+    }
+  ],
+  "require": {
+    "slim/slim": "3.8.1",
+    "simple-crud/simple-crud": "v6.11.2"
+  }
+}
